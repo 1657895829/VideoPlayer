@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SuperPlayer_Video/SuperPlayer_Video.iml" filepath="$PROJECT_DIR$/SuperPlayer_Video/SuperPlayer_Video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoPlayer_LianXi.iml" filepath="$PROJECT_DIR$/VideoPlayer_LianXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijkplayerlibrary/ijkplayerlibrary.iml" filepath="$PROJECT_DIR$/ijkplayerlibrary/ijkplayerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superplayerlibrary/superplayerlibrary.iml" filepath="$PROJECT_DIR$/superplayerlibrary/superplayerlibrary.iml" />
+    </modules>
+  </component>
+</project>
